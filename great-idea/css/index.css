@@ -66,9 +66,12 @@ h1, h2, h3, h4, h5 {
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
 .container {
-	width: 880px;
+	 
+ 	 align-content: center; /* Can be changed in the live sample */
+     background-color: #8c8c8c;
+	 width: 880px;
 	/* TB LR */
-	margin: 0 auto;
+	  margin: 0 auto;
   }
 
 header nav{
